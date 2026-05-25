@@ -19,6 +19,9 @@ Actualmente estoy en transición hacia el desarrollo frontend y Full Stack, comb
 ---
 
 ## 🛠 Tecnologías y herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,vscode" />
+</p>
 
 ### Diseño
 - Figma
