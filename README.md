@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hola 👋 Soy Manuel Alejandro</h1>
 
-<!--
-**manuelalejandrogp/manuelalejandrogp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Diseñador gráfico publicitario + Frontend Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Branding • UI/UX • IA Creativa • HTML • CSS • JavaScript
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+Soy diseñador gráfico publicitario con más de 10 años de experiencia en branding, diseño editorial y comunicación visual.
+
+Actualmente estoy en transición hacia el desarrollo frontend y Full Stack, combinando diseño, tecnología e inteligencia artificial para crear experiencias digitales modernas, funcionales y visualmente impactantes.
+
+---
+
+## 🛠 Tecnologías y herramientas
+
+### Diseño
+- Figma
+- Illustrator
+- Photoshop
+- InDesign
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- Responsive Design
+
+### Actualmente aprendiendo
+- React
+- APIs REST
+- Java
+- Backend
+
+---
+
+## 🌎 Encuéntrame aquí
+
+- LinkedIn
+- Behance
+- Portafolio
+
+---
+
+## 📌 Proyectos destacados
+
+🔹 Portafolio personal  
+🔹 Landing pages modernas  
+🔹 Interfaces UI/UX  
+🔹 Proyectos frontend  
+🔹 Branding digital
+
+---
+
+## ⚡ Frase
+
+"El diseño no solo debe verse bien.
+Debe comunicar, conectar y funcionar."
