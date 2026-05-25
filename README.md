@@ -61,6 +61,14 @@ Actualmente estoy en transición hacia el desarrollo frontend y Full Stack, comb
 
 ---
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=manuelalejandrogp&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelalejandrogp&layout=compact&theme=tokyonight)
+
+---
+
 ## ⚡ Frase
 
 "El diseño no solo debe verse bien.
